@@ -1,3 +1,6 @@
 # Atividade
 
-1) Aplicar estilos CSS à aplicação, principalmente às mensagens apresentadas em `<p id="localizacao"></p>`.
+1) Aplicar estilos CSS à aplicação, principalmente às mensagens apresentadas em: 
+```html 
+<p id="localizacao"></p> 
+```.
